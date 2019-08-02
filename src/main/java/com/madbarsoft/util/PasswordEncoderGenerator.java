@@ -1,5 +1,5 @@
-package com.madbarsoft.util;
-//package com.madbarsoft.springbootthymeleftspringsecurity.util;
+//package com.madbarsoft.util;
+//
 //
 //import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 //
@@ -7,7 +7,7 @@ package com.madbarsoft.util;
 //
 //  public static void main(String[] args) {
 //
-//		String password = "admin";
+//		String password = "user2";
 //		BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
 //		String hashedPassword = passwordEncoder.encode(password);
 //
