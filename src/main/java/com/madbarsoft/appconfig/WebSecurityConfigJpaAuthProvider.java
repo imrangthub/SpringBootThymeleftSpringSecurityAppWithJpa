@@ -20,7 +20,7 @@ import org.springframework.security.web.authentication.rememberme.PersistentToke
 
 @Configuration
 @EnableWebSecurity
-public class WebSecurityConfigJpaAuthentication extends WebSecurityConfigurerAdapter {
+public class WebSecurityConfigJpaAuthProvider extends WebSecurityConfigurerAdapter {
 
 	@Autowired
 	private UserDetailsService customUserDetailsService;
